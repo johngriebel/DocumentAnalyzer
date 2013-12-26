@@ -1,0 +1,1 @@
+This Document Analyzer software was developed for the Westminster College Sociology Department. It allows the user to parse through several documents for keywords they have created. These keywords each belong to a theme as stipulated by the user. Running the analyzer generates a CSV document that gives a statistical analysis. More details will be added to this document later.
